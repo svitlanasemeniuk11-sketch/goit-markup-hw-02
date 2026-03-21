@@ -94,7 +94,9 @@ body{
 .portfolio-list{
     list-style: none;
 }
-.logo-studio-footer{
+footer{
     background-color: #2e2f42;
+}
+.logo-studio-footer{
     color: #f4f4fd;
 }
