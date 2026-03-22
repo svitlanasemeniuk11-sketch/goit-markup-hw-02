@@ -70,7 +70,7 @@ ul{
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 0.01;
+    line-height: 1.0;
     letter-spacing: 0.02em;
     background-color: #2e2f42;
 }
